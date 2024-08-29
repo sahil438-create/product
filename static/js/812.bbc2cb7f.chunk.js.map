@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/812.bbc2cb7f.chunk.js","mappings":"iJAMA,QAJA,WACE,OAAOA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,wBACd,C","sources":["ContactUs.js"],"sourcesContent":["import React from 'react';\r\n\r\nfunction ContactUs() {\r\n  return <div>this is contact page</div>;\r\n}\r\n\r\nexport default ContactUs;\r\n"],"names":["_jsx","children"],"sourceRoot":""}
